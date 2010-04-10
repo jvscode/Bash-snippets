@@ -1,1 +1,38 @@
+
+
+The Bash snippets & scripts (Mac OS X) listed in the ListOfSnippets.txt file were originally 
+posted on http://codesnippets.joyent.com.
+
+
+The scripts & snippets (originally) written by jv are released under the MIT License, 
+http://www.opensource.org/licenses/mit-license.php, Copyright (c) 2010 jv 
+(see the LICENSE file for further details).
+
+
+The code (originally) not written by jv is released under the license stated or referenced 
+in the individual source code files.
+
+
+The numbers at the beginning of file names are identical with the post id numbers of the 
+respective snippets published on http://codesnippets.joyent.com
+
+Example: 
+
+file name:  
+
+   1606__month_&_day.txt
+
+URL:  
+
+   http://codesnippets.joyent.com/posts/show/1606
+
+   http://209.85.129.132/search?q=cache:http://codesnippets.joyent.com/posts/show/1606
+
+   http://web.archive.org/web/*/http://codesnippets.joyent.com/posts/show/1606
+
+
+The collection of Bash snippets & scripts (Mac OS X) can be downloaded from:
+
+http://github.com/jvscode/Bash-snippets/downloads
+
  
